@@ -8,7 +8,7 @@ html, body{
 
 h1{
     font-family: 'Hanalei', cursive;
-    font-size: 65px;
+    font-size: 75px;
     color: white;
     letter-spacing: 5px;
     text-shadow: 2px 2px darkgray;
@@ -25,7 +25,7 @@ h3{
 
 h4 {
     font-family: 'PT Sans Narrow', sans-serif;
-    font-size: 30px;
+    font-size: 25px;
     font-weight: bold;
 }
 .container {
@@ -43,7 +43,7 @@ h4 {
   }
 
 #wins, #current-word, #guesses-remaining, #guessed-letters{
-    font-size: 30px;
-    padding: 10px;
+    font-size: 25px;
+    padding: 5px;
 }
  
